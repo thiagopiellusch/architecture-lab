@@ -1,12 +1,9 @@
 # Architecture Lab
 
-Repositório dedicado à exploração de arquitetura de sistemas, decisões técnicas e trade-offs.
+Laboratório focado em **Decisões Técnicas (ADRs)** e Trade-offs de infraestrutura. Aqui documento como desenho sistemas para serem seguros e escaláveis.
 
-Este espaço representa como eu penso tecnologia em nível estratégico.
-
-## Temas
-- Design de APIs
-- Arquitetura monolítica vs microserviços
-- Integrações corporativas
-- Escalabilidade e governança
-- Observabilidade e confiabilidade
+## 🔬 Frentes de Exploração
+* **Interoperabilidade Corporativa:** Desenho de fluxos via iPaaS para conectar ERPs a soluções Cloud (AWS/Azure).
+* **Segurança e Conformidade (LGPD):** Padrões de validação de Pentests e mitigação de vulnerabilidades em sistemas B2C.
+* **Observabilidade:** Implementação de dashboards (Grafana/Prometheus) para monitoramento de saúde de sistemas críticos.
+* **Migração de Sistemas:** Estratégias de migração de plataformas Linx/VTEX/Oracle para arquiteturas modernas.
