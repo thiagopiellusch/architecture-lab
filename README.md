@@ -1,3 +1,10 @@
+### Arquitetura de IA e Automação
+Desenho e implementação de sistemas de IA em produção integrando LLMs, pipelines de RAG/HAG e arquiteturas baseadas em embeddings e bancos vetoriais, com foco em eficiência de recuperação semântica e controle de contexto. Experiência na construção de soluções híbridas (IA generativa + preditiva) aplicadas a chatbots transacionais e integrações com canais como WhatsApp, com gestão otimizada de tokens e custo de inferência.
+
+Atuação em engenharia de confiabilidade aplicada à IA (AI Systems Reliability), incluindo estratégias de retries com backoff exponencial, timeout budgets, circuit breakers e fallbacks determinísticos para garantir resiliência e previsibilidade em cenários críticos. Implementação de versionamento de prompts, avaliação contínua de outputs (LLM evals) e governança de contexto para evitar drift e inconsistências.
+
+Construção de pipelines robustos de teste, validação e deploy (CI/CD para IA), com monitoramento de performance, latência e qualidade de resposta, assegurando escalabilidade sustentável e redução significativa da intervenção manual em processos operacionais como transbordo.
+
 # Architecture Lab
 
 Repositório dedicado à documentação de Decisões Técnicas (ADRs), padrões de infraestrutura e viabilidade de soluções escaláveis em ambientes corporativos.
@@ -13,5 +20,3 @@ Implementação de padrões de segurança da informação, validação de Pentes
 ### Observabilidade e Resiliência
 Estruturação de monitoramento preventivo via Grafana e Prometheus, focando na saúde de sistemas críticos e na manutenção de SLAs operacionais.
 
-### Arquitetura de IA e Automação
-Roadmap técnico para implementação de IA Generativa (LLMs) e Visão Computacional, com foco em escalabilidade sustentável e redução de intervenção manual em processos de transbordo.
